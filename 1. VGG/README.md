@@ -1,10 +1,6 @@
 # 1. 화상 분류와 전이학습(VGG)
 
----
-
----
-
-[만들면서배우는파이토치딥러닝_전이학습과VGG.pptx](1%20%E1%84%92%E1%85%AA%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8(VGG)%20aa98959238d24b52bbde12da100017d2/%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C%EB%B0%B0%EC%9A%B0%EB%8A%94%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%EB%94%A5%EB%9F%AC%EB%8B%9D_%EC%A0%84%EC%9D%B4%ED%95%99%EC%8A%B5%EA%B3%BCVGG.pptx)
+[만들면서배우는파이토치딥러닝_전이학습과VGG.pptx](https://github.com/Lee-jun-young98/Pytorch_DeepLearning/files/7852343/_.VGG.pptx)
 
 # VGG 16이란?
 
@@ -12,7 +8,8 @@
 
 # 파이토치를 활용한 딥러닝 구현 흐름
 
-![Untitled](1%20%E1%84%92%E1%85%AA%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8(VGG)%20aa98959238d24b52bbde12da100017d2/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80506107/149078993-d37bff43-5fcb-4190-b979-4cda622f5d6b.png)
+
 
 1. 전처리, 후처리, 네트워크 모델의 입출력 확인
 2. 데이터셋 클래스 생성(입력데이터, 라벨)
